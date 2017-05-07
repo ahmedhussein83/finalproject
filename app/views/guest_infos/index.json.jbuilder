@@ -1,0 +1,1 @@
+json.array! @guest_infos, partial: 'guest_infos/guest_info', as: :guest_info
