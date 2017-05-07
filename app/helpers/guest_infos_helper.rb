@@ -1,0 +1,2 @@
+module GuestInfosHelper
+end
